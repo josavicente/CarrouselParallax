@@ -11,6 +11,8 @@
 		809BE8F428931A9500E8488D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 809BE8F328931A9500E8488D /* ContentView.swift */; };
 		809BE8F628931A9600E8488D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 809BE8F528931A9600E8488D /* Assets.xcassets */; };
 		809BE8F928931A9600E8488D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 809BE8F828931A9600E8488D /* Preview Assets.xcassets */; };
+		809BE900289323DE00E8488D /* CarrouselParallaxData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 809BE8FF289323DE00E8488D /* CarrouselParallaxData.swift */; };
+		809BE9022893270300E8488D /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 809BE9012893270300E8488D /* extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		809BE8F328931A9500E8488D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		809BE8F528931A9600E8488D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		809BE8F828931A9600E8488D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		809BE8FF289323DE00E8488D /* CarrouselParallaxData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrouselParallaxData.swift; sourceTree = "<group>"; };
+		809BE9012893270300E8488D /* extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				809BE8F328931A9500E8488D /* ContentView.swift */,
 				809BE8F528931A9600E8488D /* Assets.xcassets */,
 				809BE8F728931A9600E8488D /* Preview Content */,
+				809BE8FF289323DE00E8488D /* CarrouselParallaxData.swift */,
+				809BE9012893270300E8488D /* extensions.swift */,
 			);
 			path = CarrouselParallax;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				809BE8F428931A9500E8488D /* ContentView.swift in Sources */,
 				809BE8F228931A9500E8488D /* CarrouselParallaxApp.swift in Sources */,
+				809BE900289323DE00E8488D /* CarrouselParallaxData.swift in Sources */,
+				809BE9022893270300E8488D /* extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
